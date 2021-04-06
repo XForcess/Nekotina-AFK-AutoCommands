@@ -1,4 +1,4 @@
-¿Como se usa?
+**¿Como se usa?**
 
 
 1- Abre Discord.
