@@ -1,0 +1,1 @@
+# Nekotina-AFK-AutoCommands
